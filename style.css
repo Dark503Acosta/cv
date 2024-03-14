@@ -1,0 +1,77 @@
+/* selecctores de etiqueta*/
+
+/* este es el nombre del cv */
+     h1{
+        color: blue; text-align: center;
+    }
+
+/* estos son los parrafos */
+       p{
+        color: darkturquoise; text-align: center;
+    }
+
+        p{
+            background-color: cornsilk;
+        }
+
+/* etiqueta de color del la pagina */
+      body{
+        background-color: bisque;
+    }
+
+   footer{
+    color: purple;
+text-align:
+}
+
+ #correo{
+    color: lime;
+}
+
+#telefono{
+    color: lime;
+}
+
+  #redes{
+    color: lime;
+}
+
+/* este es el estilo de letra */
+   body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    header{
+        text-align: ;
+background-color: white;
+}
+/* selector de alto y ancho */
+#perfil{
+    width: 150px;
+}
+
+#perfil2{
+    width: 150px; height: 150px; 
+}
+
+#contacto{
+    color: purple;
+}
+
+#habilidades{
+    color: chocolate;
+}
+/* selector avanzado */
+header nav ul{
+    background-color: black;
+}
+nav ul li a{
+    color: white;
+}
+section{
+    text-align: center;
+}
+/* este es la alineacion de la berra de navegacion */
+nav{
+    text-align: center;
+}
